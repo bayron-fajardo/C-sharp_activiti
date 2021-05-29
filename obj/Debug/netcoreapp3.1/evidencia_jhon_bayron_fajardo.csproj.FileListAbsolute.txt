@@ -1,0 +1,13 @@
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.exe
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.deps.json
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.runtimeconfig.json
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.runtimeconfig.dev.json
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.dll
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\bin\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.pdb
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.csprojAssemblyReference.cache
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.AssemblyInfoInputs.cache
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.AssemblyInfo.cs
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.csproj.CoreCompileInputs.cache
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.dll
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.pdb
+C:\Users\Janus\source\repos\evidencia_jhon_bayron_fajardo\evidencia_jhon_bayron_fajardo\obj\Debug\netcoreapp3.1\evidencia_jhon_bayron_fajardo.genruntimeconfig.cache

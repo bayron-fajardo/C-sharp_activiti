@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "evidencia_jhon_bayron_fajardo/1.0.0": {
+        "runtime": {
+          "evidencia_jhon_bayron_fajardo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evidencia_jhon_bayron_fajardo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
